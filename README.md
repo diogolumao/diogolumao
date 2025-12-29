@@ -21,9 +21,13 @@
 <div align="center">
 <h3>🚀 Sobre Mim</h3>
 <p width="600px">
-Sou especialista em transformar dados complexos em produtos digitais funcionais.<br>
-Meu foco vai além da análise: construo soluções ponta a ponta usando <strong>Engenharia de Dados</strong>, 
-<strong>Machine Learning</strong> e <strong>Infraestrutura Cloud</strong>.
+<strong>Analista de Dados</strong> com background robusto em <strong>T.I. (Redes/Linux)</strong> e <strong>Finanças</strong>.
+<br><br>
+Minha atuação une visão de negócio com capacidade técnica de implementação. 
+Foco na construção de arquiteturas de dados ponta-a-ponta: 
+extração (ETL Python), armazenamento (SQL) e visualização estratégica.
+<br><br>
+💡 <strong>Diferencial:</strong> Domínio de infraestrutura Cloud (Docker, VPS e Automação) para deploy de produtos de dados.
 </p>
 
 <br/>
