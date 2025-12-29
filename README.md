@@ -41,21 +41,21 @@ Construo soluções ponta a ponta usando <strong>Engenharia de Dados</strong>,
 <table>
 <tr>
 <td width="33%" align="center">
-<a href="https://github.com/diogolumao/credit-horizon">
+<a href="https://github.com/diogolumao/investir-jovem">
 <img src="https://img.shields.io/badge/Credit_Horizon-IA_Financeira-6200EA?style=for-the-badge&logo=python&logoColor=white" />
 </a>
 <br/><br/>
-Simulador de Risco de Crédito usando <strong>Random Forest</strong> e deploy em VPS.
+Uma aplicação de Data Storytelling que transforma dados brutos de pesquisa (Quantitativa e Qualitativa) em estratégia educacional para o mercado financeiro.
 </td>
 <td width="33%" align="center">
-<a href="https://github.com/diogolumao/hdenegocios-interno">
+<a href="https://github.com/diogolumao/monitor-financeiro-b3">
 <img src="https://img.shields.io/badge/Horizonte_Interno-ERP_%26_CRM-00CC96?style=for-the-badge&logo=docker&logoColor=white" />
 </a>
 <br/><br/>
-Sistema de gestão completo com autenticação segura e integração Cloud.
+Uma solução Full-Stack de Dados que coleta, armazena e visualiza cotações de ativos financeiros em tempo real.
 </td>
 <td width="33%" align="center">
-<a href="https://github.com/diogolumao/ecommerce-dash">
+<a href="https://github.com/diogolumao/Dashboard-e-commerce-EBAC">
 <img src="https://img.shields.io/badge/Ecommerce-Analytics-FF4B4B?style=for-the-badge&logo=plotly&logoColor=white" />
 </a>
 <br/><br/>
