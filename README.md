@@ -3,7 +3,7 @@
 <h3>Analista de Dados | Python Developer | Business Intelligence</h3>
 <a href="https://diogolumao.com.br" target="_blank"><img src="https://img.shields.io/badge/Portfólio-diogolumao.com.br-2E004E?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/diogoalves-dados/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:diogo.lumao@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-Fale_Comigo-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:diogolumao@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-Fale_Comigo-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
 <br/>
