@@ -49,7 +49,7 @@ App de Data Storytelling que transforma dados de pesquisa em estratégia educaci
 </td>
 <td width="33%" align="center">
 <a href="https://github.com/diogolumao/monitor-financeiro-b3">
-<img src="https://img.shields.io/badge/Horizonte_Interno-ERP_%26_CRM-00CC96?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Monitor-B3-Ativos-Bolsa-00CC96?style=for-the-badge&logo=docker&logoColor=white" />
 </a>
 <br/><br/>
 Uma solução Full-Stack de Dados que coleta, armazena e visualiza cotações de ativos financeiros em tempo real.
