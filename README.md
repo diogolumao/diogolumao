@@ -49,17 +49,17 @@ Meu foco vai além da análise: construo soluções ponta a ponta usando <strong
 <table>
 <tr>
 <td width="33%" align="center" valign="middle">
-<a href="LINK_DO_SEU_REPO_INVESTIR_JOVEM">
+<a href="https://github.com/diogolumao/investir-jovem">
 <img src="https://img.shields.io/badge/Investir_Jovem-Educação_Financeira-6200EA?style=for-the-badge&logo=python&logoColor=white" />
 </a>
 </td>
 <td width="33%" align="center" valign="middle">
-<a href="LINK_DO_SEU_REPO_MONITOR_B3">
+<a href="https://github.com/diogolumao/monitor-financeiro-b3">
 <img src="https://img.shields.io/badge/Monitor_B3-IA_Financeira-00CC96?style=for-the-badge&logo=docker&logoColor=white" />
 </a>
 </td>
 <td width="33%" align="center" valign="middle">
-<a href="https://github.com/diogolumao/ecommerce-dash">
+<a href="https://github.com/diogolumao/Dashboard-e-commerce-EBAC">
 <img src="https://img.shields.io/badge/Ecommerce-Analytics-FF4B4B?style=for-the-badge&logo=plotly&logoColor=white" />
 </a>
 </td>
