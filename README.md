@@ -45,7 +45,7 @@ Construo soluções ponta a ponta usando <strong>Engenharia de Dados</strong>,
 <img src="https://img.shields.io/badge/Credit_Horizon-IA_Financeira-6200EA?style=for-the-badge&logo=python&logoColor=white" />
 </a>
 <br/><br/>
-Uma aplicação de Data Storytelling que transforma dados brutos de pesquisa em estratégia educacional para o mercado financeiro.
+App de Data Storytelling que transforma dados de pesquisa em estratégia educacional para o mercado financeiro.
 </td>
 <td width="33%" align="center">
 <a href="https://github.com/diogolumao/monitor-financeiro-b3">
@@ -59,7 +59,7 @@ Uma solução Full-Stack de Dados que coleta, armazena e visualiza cotações de
 <img src="https://img.shields.io/badge/Ecommerce-Analytics-FF4B4B?style=for-the-badge&logo=plotly&logoColor=white" />
 </a>
 <br/><br/>
-Dashboard de vendas e análise de comportamento do consumidor.
+Dashboard de vendas e análise de comportamento do consumidor. Projeto focado em Visualização de Dados.
 </td>
 </tr>
 </table>
