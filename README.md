@@ -16,8 +16,6 @@
 </p>
 </div>
 
-<br/>
-
 <div align="center">
 <h3>🚀 Sobre Mim</h3>
 <p width="600px">
@@ -30,7 +28,7 @@ extração (ETL Python), armazenamento (SQL) e visualização estratégica.
 💡 <strong>Diferencial:</strong> Domínio de infraestrutura Cloud (Docker, VPS e Automação) para deploy de produtos de dados.
 </p>
 
-<br/>
+
 
 <h3>🛠 Minha Caixa de Ferramentas</h3>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -44,7 +42,7 @@ extração (ETL Python), armazenamento (SQL) e visualização estratégica.
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
-<br/><br/>
+<br/>
 
 
 <h3 align="center">🏆 Projetos Recentes</h3>
