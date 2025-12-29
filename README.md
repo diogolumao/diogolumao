@@ -99,7 +99,6 @@ extração (ETL Python), armazenamento (SQL) e visualização estratégica.
 </table>
 </div>
 
-<br/>
 
 <div align="center">
 <br/>
