@@ -1,24 +1,12 @@
 <div align="center">
-<img
-src="https://capsule-render.vercel.app/api?type=waving&color=00CC96&height=100&section=header&text=Diogo%20Alves&fontSize=50&fontColor=ffffff" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00CC96&height=100&section=header&text=Diogo%20Alves&fontSize=50&fontColor=ffffff"/>
 <h3>Analista de Dados | Python Developer | Business Intelligence</h3>
-
-<a href="https://diogolumao.com.br" target="_blank">
-<img
-src="https://img.shields.io/badge/Portfólio-diogolumao.com.br-2E004E?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/diogoalves-dados/" target="_blank">
-<img
-src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:diogo.lumao@gmail.com" target="_blank">
-<img
-src="https://img.shields.io/badge/Gmail-Fale_Comigo-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<a href="https://diogolumao.com.br" target="_blank"><img src="https://img.shields.io/badge/Portfólio-diogolumao.com.br-2E004E?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/diogoalves-dados/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:diogo.lumao@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-Fale_Comigo-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
-<br />
+<br/>
 
 <table>
 <tr>
@@ -26,8 +14,7 @@ src="https://img.shields.io/badge/Gmail-Fale_Comigo-D14836?style=for-the-badge&l
 <h3>🚀 Olá, Visitante!</h3>
 <p>
 Sou especialista em transformar dados complexos em produtos digitais funcionais.
-Meu foco vai além da análise: construo soluções ponta a ponta usando <strong>Engenharia de
-Dados</strong>,
+Construo soluções ponta a ponta usando <strong>Engenharia de Dados</strong>,
 <strong>Machine Learning</strong> e <strong>Infraestrutura Cloud</strong>.
 </p>
 
@@ -42,7 +29,9 @@ Dados</strong>,
 </td>
 <td width="45%" valign="top">
 <h3>📊 Github Stats</h3>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=diogolumao&show_icons=true&theme=dracula&hide_border=true" height="150" />
+<a href="https://github.com/diogolumao">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diogolumao&theme=dracula&hide_border=true" height="150" />
+</a>
 </td>
 </tr>
 </table>
@@ -53,35 +42,29 @@ Dados</strong>,
 <tr>
 <td width="33%" align="center">
 <a href="https://github.com/diogolumao/credit-horizon">
-<img
-src="https://img.shields.io/badge/Credit_Horizon-IA_Financeira-6200EA?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Credit_Horizon-IA_Financeira-6200EA?style=for-the-badge&logo=python&logoColor=white" />
 </a>
-<br />
-<br />
+<br/><br/>
 Simulador de Risco de Crédito usando <strong>Random Forest</strong> e deploy em VPS.
 </td>
 <td width="33%" align="center">
-<a href="https://github.com/SEU_USUARIO/hdenegocios-interno">
-<img
-src="https://img.shields.io/badge/Horizonte_Interno-ERP_%26_CRM-00CC96?style=for-the-badge&logo=docker&logoColor=white" />
+<a href="https://github.com/diogolumao/hdenegocios-interno">
+<img src="https://img.shields.io/badge/Horizonte_Interno-ERP_%26_CRM-00CC96?style=for-the-badge&logo=docker&logoColor=white" />
 </a>
-<br />
-<br />
+<br/><br/>
 Sistema de gestão completo com autenticação segura e integração Cloud.
 </td>
 <td width="33%" align="center">
-<a href="https://github.com/SEU_USUARIO/ecommerce-dash">
-<img
-src="https://img.shields.io/badge/Ecommerce-Analytics-FF4B4B?style=for-the-badge&logo=plotly&logoColor=white" />
+<a href="https://github.com/diogolumao/ecommerce-dash">
+<img src="https://img.shields.io/badge/Ecommerce-Analytics-FF4B4B?style=for-the-badge&logo=plotly&logoColor=white" />
 </a>
-<br />
-<br />
+<br/><br/>
 Dashboard de vendas e análise de comportamento do consumidor.
 </td>
 </tr>
 </table>
 
 <div align="center">
-<br />
+<br/>
 <p><i>"Dados são o novo petróleo, mas o Python é a refinaria."</i> 🛢️🐍</p>
 </div>
