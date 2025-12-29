@@ -45,30 +45,40 @@ Meu foco vai além da análise: construo soluções ponta a ponta usando <strong
 
 <h3 align="center">🏆 Projetos Recentes</h3>
 
+<div align="center">
 <table>
 <tr>
-<td width="33%" align="center">
-<a href="https://github.com/diogolumao/investir-jovem">
-<img src="https://img.shields.io/badge/Investir_Jovem-Educaçaõ_Financeira-6200EA?style=for-the-badge&logo=python&logoColor=white" />
+<td width="33%" align="center" valign="middle">
+<a href="LINK_DO_SEU_REPO_INVESTIR_JOVEM">
+<img src="https://img.shields.io/badge/Investir_Jovem-Educação_Financeira-6200EA?style=for-the-badge&logo=python&logoColor=white" />
 </a>
-<br/><br/>
-App de Data Storytelling que transforma dados de pesquisa em estratégia educacional para o mercado financeiro.
 </td>
-<td width="33%" align="center">
-<a href="https://github.com/diogolumao/monitor-financeiro-b3">
-<img src="https://img.shields.io/badge/Monitor_B3-IA_Financeira-00CC96?style=for-the-badge&logo=docker&logoColor=white" /></a>
-<br/><br/>
-Uma solução Full-Stack de Dados que coleta, armazena e visualiza cotações de ativos financeiros em tempo real.
+<td width="33%" align="center" valign="middle">
+<a href="LINK_DO_SEU_REPO_MONITOR_B3">
+<img src="https://img.shields.io/badge/Monitor_B3-IA_Financeira-00CC96?style=for-the-badge&logo=docker&logoColor=white" />
+</a>
 </td>
-<td width="33%" align="center">
-<a href="https://github.com/diogolumao/Dashboard-e-commerce-EBAC">
+<td width="33%" align="center" valign="middle">
+<a href="https://github.com/diogolumao/ecommerce-dash">
 <img src="https://img.shields.io/badge/Ecommerce-Analytics-FF4B4B?style=for-the-badge&logo=plotly&logoColor=white" />
 </a>
-<br/><br/>
-Dashboard de vendas e análise de comportamento do consumidor. Projeto focado em Visualização de Dados.
+</td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top">
+<p>App de Data Storytelling que transforma dados de pesquisa em estratégia educacional para o mercado financeiro.</p>
+</td>
+<td width="33%" align="center" valign="top">
+<p>Uma solução Full-Stack de Dados que coleta, armazena e visualiza cotações de ativos financeiros em tempo real.</p>
+</td>
+<td width="33%" align="center" valign="top">
+<p>Dashboard de vendas e análise de comportamento do consumidor. Projeto focado em Visualização de Dados.</p>
 </td>
 </tr>
 </table>
+</div>
+
+<br/>
 
 <div align="center">
 <br/>
