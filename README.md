@@ -68,18 +68,21 @@ Meu foco vai além da análise: construo soluções ponta a ponta usando <strong
 <tr>
 <td width="33%" align="center" valign="top">
 <p>App de Data Storytelling que transforma dados de pesquisa em estratégia educacional para o mercado financeiro.</p>
+<br/>
 <a href="https://investir-jovem.diogolumao.com.br/" target="_blank">
 <img src="https://img.shields.io/badge/Demo-Acessar_App-2EA44F?style=flat&logo=googlechrome&logoColor=white" />
 </a>
 </td>
 <td width="33%" align="center" valign="top">
 <p>Uma solução Full-Stack de Dados que coleta, armazena e visualiza cotações de ativos financeiros em tempo real.</p>
+<br/>
 <a href="https://financeiro.diogolumao.com.br/" target="_blank">
 <img src="https://img.shields.io/badge/Demo-Acessar_App-2EA44F?style=flat&logo=googlechrome&logoColor=white" />
 </a>
 </td>
 <td width="33%" align="center" valign="top">
 <p>Dashboard de vendas e análise de comportamento do consumidor. Projeto focado em Visualização de Dados.</p>
+<br/>
 <a href="https://python-ebac.diogolumao.com.br/" target="_blank">
 <img src="https://img.shields.io/badge/Demo-Acessar_App-2EA44F?style=flat&logo=googlechrome&logoColor=white" />
 </a>
