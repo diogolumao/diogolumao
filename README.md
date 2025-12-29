@@ -45,7 +45,7 @@ Construo soluções ponta a ponta usando <strong>Engenharia de Dados</strong>,
 <img src="https://img.shields.io/badge/Credit_Horizon-IA_Financeira-6200EA?style=for-the-badge&logo=python&logoColor=white" />
 </a>
 <br/><br/>
-Uma aplicação de Data Storytelling que transforma dados brutos de pesquisa (Quantitativa e Qualitativa) em estratégia educacional para o mercado financeiro.
+Uma aplicação de Data Storytelling que transforma dados brutos de pesquisa em estratégia educacional para o mercado financeiro.
 </td>
 <td width="33%" align="center">
 <a href="https://github.com/diogolumao/monitor-financeiro-b3">
